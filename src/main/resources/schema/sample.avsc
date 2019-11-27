@@ -1,0 +1,11 @@
+{
+     "type": "record",
+     "namespace": "io.schemaregistry",
+     "name": "User",
+     "version": "1",
+     "fields": [
+       { "name": "id", "type": "int", "doc": "id" },
+       { "name": "name", "type": "string", "doc": "Last Name of User" },
+	   { "name": "mail", "type": "string", "doc": "Last Name of User" }
+     ]
+}
