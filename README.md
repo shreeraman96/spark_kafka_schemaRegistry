@@ -5,7 +5,7 @@ One of the most tedious processes in processing streaming data using kafka and s
 
 Confluent platform has a schema registry which we can use along with avro data format to bypass the tedious process. Herein, through this technique the data is being transferred in avro format with the schema being stored in the schema registry server. Both producer and consumer kafka has access to the registry and hence can retrieve the corresponding schema to deserialize the data received in the receiving end.
 
-This post assumes that you have fair knowledge on how to use docker and write code in spark-scala. It covers the detailed steps on how to setup and use Spark, Kafka and Schema registry to send and receive data.
+A fair knowledge on how to use docker and write code in spark-scala is necessary, however detailed steps on how to setup and use Spark, Kafka and Schema registry to send and receive data has been covered.
 
 The key concepts and definitions can be found here in the [wiki page](https://github.com/shreeraman96/spark_kafka_schemaRegistry/wiki/Key-terms-and-definition)
 
