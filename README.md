@@ -14,7 +14,8 @@ To setup the environment needed for this project, detailed instructions has been
 
 #### Breakdown and implementation of the code
 
-sample data that we are going to be use can be found [here](https://github.com/shreeraman96/spark_kafka_schemaRegistry/blob/master/src/main/resources/dataset/sampledata.csv). Schema for the same can be found (here)[https://github.com/shreeraman96/spark_kafka_schemaRegistry/blob/master/src/main/resources/schema/sample.avsc]
+sample data that we are going to be use can be found [here](https://github.com/shreeraman96/spark_kafka_schemaRegistry/blob/master/src/main/resources/dataset/sampledata.csv). Schema for the same can be found [here](https://github.com/shreeraman96/spark_kafka_schemaRegistry/blob/master/src/main/resources/schema/sample.avsc)
+
 
 **Setting up spark session:**
 
